@@ -12,3 +12,5 @@ BlazorServerApp + MVC + RazorPage Template Mixed
 /mvc/Privacy
 
 sample Page
+
+C:\Users\{{account}}\Documents\Visual Studio 2019\Templates\ProjectTemplates\BlazorServerAppWithMVCRazor.zip
